@@ -1,5 +1,7 @@
 I'm a PhD student at IST, Osaka University. My research focuses on database and query optimization.
 
+Contact: ji.yuchen[at]ist.osaka-u.ac.jp
+
 ## Publication 
 [A Performance Study of One-dimensional Learned Cardinality Estimation](http://ceur-ws.org/Vol-3130/paper10.pdf).
 
